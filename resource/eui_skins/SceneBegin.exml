@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin width="640" height="480" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="background_jpg" x="0" y="0"/>
+	<e:Group id="title_group" width="640" height="183" x="0" y="-183">
+		<e:Image source="home-mask_png" x="0" y="0" scaleX="1" scaleY="1"/>
+		<e:Image source="logo_png" x="14" y="0" scaleX="1" scaleY="1"/>
+	</e:Group>
+	<e:Image id="left_mid" source="home-desc_png" x="-161" y="138"/>
+	<e:Image id="ninj_img" source="ninja_png" x="351" y="-85"/>
+	<e:Image id="fir_circle" source="dojo_png" scaleX="0" anchorOffsetX="88" anchorOffsetY="88" scaleY="0" width="175" height="175" x="136.5" y="344"/>
+	<e:Image id="fir_fruit" source="peach_png" scaleX="0" scaleY="0" width="62" height="50" x="136" y="343.5" anchorOffsetX="31" anchorOffsetY="25"/>
+	<e:Image id="sec_circle" source="new-game_png" scaleX="0" scaleY="0" width="195" height="195" anchorOffsetX="98" anchorOffsetY="98" x="337" y="334"/>
+	<e:Image id="sec_fruit" source="sandia_png" scaleX="0" scaleY="0" anchorOffsetY="49" anchorOffsetX="48" width="98" height="94" x="336" y="340"/>
+
+	<e:Image id="thr_circle" source="quit_png" scaleX="0" scaleY="0" width="141" anchorOffsetY="70" x="524.5" height="141" y="354" anchorOffsetX="70"/>
+	<e:Image id="thr_fruit" source="boom_png" scaleX="0" scaleY="0" width="66" height="68" x="525" y="354.5" anchorOffsetX="33" anchorOffsetY="34"/>
+</e:Skin>
